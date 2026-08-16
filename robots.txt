@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youyuaa3.github.io/wangdashijaa/sitemap.xml
